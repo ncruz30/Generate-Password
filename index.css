@@ -1,0 +1,56 @@
+body {
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    width: 600px;
+    height: 600px;
+    margin-top: 70px;
+    margin-left: 40px;;
+    color: #E1D9D1;
+    background-color:black ;
+}
+h1{
+    font-size: 40px;
+    color: #E1D9D1;  
+}
+h2 {
+    font-size: 20px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+#container{
+    background-color: #101010;
+    margin: 30px;
+    padding: 30px ;
+}
+#btn-pss1, #btn-pss2{
+    width: 60px;
+    padding:6px;
+    margin-left: 2px;
+    
+}
+button{
+    background-color: #CCCCFF;
+    font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 18px;
+    color: #8A2BE2;;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+#inputs{
+    color: #10B981;
+    margin-top: 60px;
+}
+#password1{
+    width: 155px;
+    padding: 5px;
+    color: #8A2BE2;
+    background-color:#181818  ;
+    margin:0;
+}
+#password2{
+    width: 155px;
+    padding: 5px;
+    background-color: #181818;
+    color: #8A2BE2;
+    margin:0;
+}
